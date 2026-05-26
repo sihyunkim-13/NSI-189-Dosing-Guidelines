@@ -1,2 +1,0 @@
-reference_BW_kg,weight_median_kg,weight_cv,residual_cv_multiplier,volume_BW_exponent,systemic_CL_BW_exponent,brain_transfer_CL_scaling_mode,brain_transfer_CL_BW_exponent_if_enabled,alpha_critical,MEC_brain_ngml,best_elasticity_form
-70.0,70.0,0.18,0.45,1.0,0.75,none,0.75,0.012,80.0,hill
