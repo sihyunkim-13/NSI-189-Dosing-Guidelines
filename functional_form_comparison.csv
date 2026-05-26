@@ -1,0 +1,10 @@
+form,reference,alpha_critical,threshold_Cb_ngml
+exponential,amphetamine,0.012,
+exponential,nicotine,0.0035,
+exponential,cocaine,0.0014,
+power,amphetamine,0.012,
+power,nicotine,0.0035,
+power,cocaine,0.0014,
+hill,amphetamine,0.012,
+hill,nicotine,0.0035,
+hill,cocaine,0.0014,
